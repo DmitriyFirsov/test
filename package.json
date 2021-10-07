@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "run": "yarn && node index.js"
+  },
   "dependencies": {
     "ws": "^8.2.3"
   }
